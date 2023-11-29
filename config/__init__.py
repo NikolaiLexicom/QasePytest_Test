@@ -6,4 +6,4 @@ from config.qase import Qase
 url = Url()
 playwright = Playwright()
 expectations = Expectations()
-qaes = Qase()
+qase = Qase()
